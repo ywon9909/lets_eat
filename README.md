@@ -1,4 +1,3 @@
 # lets_eat
-
-### contributors
-- 김한빛
+>빛이 있으라.
+>>하니 빛이 있었다.
